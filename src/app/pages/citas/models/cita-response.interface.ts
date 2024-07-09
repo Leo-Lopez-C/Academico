@@ -5,4 +5,5 @@ export interface CitaResponse{
  asesoradoName :string;
  message :string;
   stateCita :string;
+  date :date;
 }
